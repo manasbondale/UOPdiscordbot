@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index --test"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,10 @@
     "discord.js": "^12.5.1",
     "dotenv": "^8.2.0",
     "eslint": "^7.15.0",
-    "leetcode-cli": "^2.6.2"
+    "leetcode-api-ts": "^1.1.1",
+    "leetcode-cli": "^2.6.2",
+    "request": "^2.88.2",
+    "seedrandom": "^3.0.5",
+    "typescript": "^4.1.3"
   }
 }

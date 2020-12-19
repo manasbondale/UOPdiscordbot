@@ -1,0 +1,300 @@
+1265	
+Print Immutable Linked List in Reverse    		94.5%	Medium	
+1570	
+Dot Product of Two Sparse Vectors    		91.6%	Medium	
+1445	
+Apples & Oranges    		90.4%	Medium	
+1393	
+Capital Gain/Loss    		90.2%	Medium	
+1476	
+Subrectangle Queries    		88.8%	Medium	
+1689	
+Partitioning Into Minimum Number Of Deci-Binary Numbers    		88.6%	Medium	
+1270	
+All People Report to the Given Manager    		88.1%	Medium	
+1308	
+Running Total for Different Genders    		86.7%	Medium	
+1285	
+Find the Start and End Number of Continuous Ranges    		86.3%	Medium	
+1282	
+Group the People Given the Group Size They Belong To    		84.3%	Medium	
+807	
+Max Increase to Keep City Skyline    		84.2%	Medium	
+1379	
+Find a Corresponding Node of a Binary Tree in a Clone of That Tree    		84.1%	Medium	
+1315	
+Sum of Nodes with Even-Valued Grandparent    		84.0%	Medium	
+1302	
+Deepest Leaves Sum    		83.9%	Medium	
+1637	
+Widest Vertical Area Between Two Points Containing No Points    		83.9%	Medium	
+1490	
+Clone N-ary Tree    		83.8%	Medium	
+1596	
+The Most Frequently Ordered Products for Each Customer    		83.7%	Medium	
+1398	
+Customers Who Bought Products A and B but Not C    		82.2%	Medium	
+1395	
+Count Number of Teams    		81.9%	Medium	
+1038	
+Binary Search Tree to Greater Sum Tree    		81.8%	Medium	
+1421	
+NPV Queries    		81.6%	Medium	
+1628	
+Design an Expression Tree With Evaluate Function    		81.6%	Medium	
+1409	
+Queries on a Permutation With Key    		81.3%	Medium	
+1669	
+Merge In Between Linked Lists    		81.3%	Medium	
+1506	
+Find Root of N-Ary Tree    		81.1%	Medium	
+654	
+Maximum Binary Tree    		80.7%	Medium	
+535	
+Encode and Decode TinyURL    		80.6%	Medium	
+1468	
+Calculate Salaries    		80.4%	Medium	
+1485	
+Clone Binary Tree With Random Pointer    		80.0%	Medium	
+1329	
+Sort the Matrix Diagonally    		79.0%	Medium	
+1008	
+Construct Binary Search Tree from Preorder Traversal    		78.7%	Medium	
+1660	
+Correct a Binary Tree    		78.7%	Medium	
+1630	
+Arithmetic Subarrays    		78.4%	Medium	
+1561	
+Maximum Number of Coins You Can Get    		78.3%	Medium	
+797	
+All Paths From Source to Target    		78.3%	Medium	
+1650	
+Lowest Common Ancestor of a Binary Tree III    		78.3%	Medium	
+534	
+Game Play Analysis III    		78.2%	Medium	
+763	
+Partition Labels    		77.8%	Medium	
+1551	
+Minimum Operations to Make Array Equal    		77.8%	Medium	
+1364	
+Number of Trusted Contacts of a Customer    		77.7%	Medium	
+1305	
+All Elements in Two Binary Search Trees    		77.7%	Medium	
+1605	
+Find Valid Matrix Given Row and Column Sums    		77.4%	Medium	
+1676	
+Lowest Common Ancestor of a Binary Tree IV    		77.3%	Medium	
+1077	
+Project Employees III    		77.0%	Medium	
+894	
+All Possible Full Binary Trees    		76.7%	Medium	
+1382	
+Balance a Binary Search Tree    		75.9%	Medium	
+1381	
+Design a Stack With Increment Operation    		75.8%	Medium	
+701	
+Insert into a Binary Search Tree    		75.8%	Medium	
+1079	
+Letter Tile Possibilities    		75.7%	Medium	
+1641	
+Count Sorted Vowel Strings    
+544	
+Output Contest Matches    		75.6%	Medium	
+1347	
+Minimum Number of Steps to Make Two Strings Anagram    		75.4%	Medium	
+1602	
+Find Nearest Right Node in Binary Tree    		75.3%	Medium	
+950	
+Reveal Cards In Increasing Order    		75.2%	Medium	
+1198	
+Find Smallest Common Element in All Rows    		75.1%	Medium	
+1557	
+Minimum Number of Vertices to Reach All Nodes    		74.8%	Medium	
+1261	
+Find Elements in a Contaminated Binary Tree    		74.5%	Medium	
+921	
+Minimum Add to Make Parentheses Valid    		74.5%	Medium	
+890	
+Find and Replace Pattern    		74.1%	Medium	
+1440	
+Evaluate Boolean Expression    		74.0%	Medium	
+1355	
+Activity Participants    		73.6%	Medium	
+1314	
+Matrix Block Sum    		73.6%	Medium	
+1325	
+Delete Leaves With a Given Value    		73.5%	Medium	
+1100	
+Find K-Length Substrings With No Repeated Characters    		73.4%	Medium	
+861	
+Score After Flipping Matrix    		73.3%	Medium	
+1613	
+Find the Missing IDs    		73.2%	Medium	
+814	
+Binary Tree Pruning    		73.1%	Medium	
+1277	
+Count Square Submatrices with All Ones    		73.0%	Medium	
+1104	
+Path In Zigzag Labelled Binary Tree    		72.8%	Medium	
+1532	
+The Most Recent Three Orders    		72.7%	Medium	
+1111	
+Maximum Nesting Depth of Two Valid Parentheses Strings    		72.4%	Medium	
+1188	
+Design Bounded Blocking Queue    		72.3%	Medium	
+723	
+Candy Crush    		71.9%	Medium	
+1112	
+Highest Grade For Each Student    		71.5%	Medium	
+366	
+Find Leaves of Binary Tree    		71.4%	Medium	
+1204	
+Last Person to Fit in the Elevator    		71.2%	Medium	
+1529	
+Bulb Switcher IV    		70.8%	Medium	
+1286	
+Iterator for Combination    		70.8%	Medium	
+419	
+Battleships in a Board    		70.8%	Medium	
+1442	
+Count Triplets That Can Form Two Arrays of Equal XOR    		70.6%	Medium	
+1387	
+Sort Integers by The Power Value    		70.5%	Medium	
+1161	
+Maximum Level Sum of a Binary Tree    		70.5%	Medium	
+885	
+Spiral Matrix III    		70.3%	Medium	
+1448	
+Count Good Nodes in Binary Tree    		70.3%	Medium	
+1612	
+Check If Two Expression Trees are Equivalent    		70.1%	Medium	
+338	
+Counting Bits    		70.1%	Medium	
+1195	
+Fizz Buzz Multithreaded    		70.0%	Medium	
+1415	
+The k-th Lexicographical String of All Happy Strings of Length n    		70.0%	Medium	
+1321	
+Restaurant Growth    		69.9%	Medium	
+1472	
+Design Browser History    		69.6%	Medium	
+979	
+Distribute Coins in Binary Tree    		69.3%	Medium	
+1222	
+Queens That Can Attack the King    		69.2%	Medium	
+1522	
+Diameter of N-Ary Tree    		69.2%	Medium	
+1310	
+XOR Queries of a Subarray    		69.0%	Medium	
+1193	
+Monthly Transactions I    		69.0%	Medium	
+1026	
+Maximum Difference Between Node and Ancestor    		68.9%	Medium	
+1264	
+Page Recommendations    		68.7%	Medium	
+608	
+Tree Node    		68.7%	Medium	
+442	
+Find All Duplicates in an Array    		68.6%	Medium	
+969	
+Pancake Sorting    
+1126	
+Active Businesses    		68.4%	Medium	
+1045	
+Customers Who Bought All Products    		68.4%	Medium	
+1396	
+Design Underground System    		68.4%	Medium	
+702	
+Search in a Sorted Array of Unknown Size    		68.3%	Medium	
+537	
+Complex Number Multiplication    		68.2%	Medium	
+1457	
+Pseudo-Palindromic Paths in a Binary Tree    		68.2%	Medium	
+986	
+Interval List Intersections    		67.9%	Medium	
+406	
+Queue Reconstruction by Height    		67.9%	Medium	
+1418	
+Display Table of Food Orders in a Restaurant    		67.8%	Medium	
+1123	
+Lowest Common Ancestor of Deepest Leaves    		67.8%	Medium	
+1214	
+Two Sum BSTs    		67.8%	Medium	
+1164	
+Product Price at a Given Date    		67.7%	Medium	
+1110	
+Delete Nodes And Return Forest    		67.5%	Medium	
+1638	
+Count Substrings That Differ by One Character    		67.5%	Medium	
+1256	
+Encode Number    		67.4%	Medium	
+1258	
+Synonymous Sentences    		67.3%	Medium	
+889	
+Construct Binary Tree from Preorder and Postorder Traversal    		67.1%	Medium	
+1130	
+Minimum Cost Tree From Leaf Values    		67.1%	Medium	
+1101	
+The Earliest Moment When Everyone Become Friends    		67.0%	Medium	
+1433	
+Check If a String Can Break Another String    		66.9%	Medium	
+1586	
+Binary Search Tree Iterator II    		66.9%	Medium	
+1525	
+Number of Good Ways to Split a String    		66.9%	Medium	
+959	
+Regions Cut By Slashes    		66.7%	Medium	
+1338	
+Reduce Array Size to The Half    		66.7%	Medium	
+1564	
+Put Boxes Into the Warehouse I    		66.7%	Medium	
+570	
+Managers with at Least 5 Direct Reports    		66.7%	Medium	
+750	
+Number Of Corner Rectangles    		66.6%	Medium	
+1043	
+Partition Array for Maximum Sum    		66.6%	Medium	
+1357	
+Apply Discount Every n Orders    		66.6%	Medium	
+1061	
+Lexicographically Smallest Equivalent String    		66.2%	Medium	
+1666	
+Change the Root of a Binary Tree    		66.2%	Medium	
+877	
+Stone Game    		66.2%	Medium	
+429	
+N-ary Tree Level Order Traversal    		66.1%	Medium	
+784	
+Letter Case Permutation    		65.9%	Medium	
+1549	
+The Most Recent Orders for Each Product    		65.8%	Medium	
+791	
+Custom Sort String    		65.8%	Medium	
+46	
+Permutations    		65.6%	Medium	
+1238	
+Circular Permutation in Binary Representation    		65.6%	Medium	
+951	
+Flip Equivalent Binary Trees    		65.6%	Medium	
+1219	
+Path with Maximum Gold    		65.5%	Medium	
+1244	
+Design A Leaderboard    		65.2%	Medium	
+260	
+Single Number III    		65.2%	Medium	
+94	
+Binary Tree Inorder Traversal    		65.1%	Medium	
+841	
+Keys and Rooms    		65.0%	Medium	
+1140	
+Stone Game II    		64.8%	Medium	
+362	
+Design Hit Counter    		64.7%	Medium	
+626	
+Exchange Seats    		64.5%	Medium	
+22	
+Generate Parentheses    		64.5%	Medium	
+865	
+Smallest Subtree with all the Deepest Nodes    		64.5%	Medium	
+1343	
+Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold    
